@@ -1,3 +1,9 @@
+/*
+Kevin Lou
+11/19/2020
+This class is used as a data structure for the main class
+ */
+
 import java.awt.*;
 
 public class Connection {

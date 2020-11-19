@@ -1,3 +1,10 @@
+/*
+Kevin Lou
+11/19/2020
+This class contains an algorithm for implementing dijkstras algorithm
+and visualizing the algorithm
+ */
+
 import javax.swing.*;
 import java.awt.*;
 import java.util.ArrayList;
